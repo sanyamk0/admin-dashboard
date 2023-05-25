@@ -1,7 +1,7 @@
 import React from "react";
 
 const ThemeSettings = () => {
-  return <div></div>;
+  return <div>ThemeSettings</div>;
 };
 
 export default ThemeSettings;

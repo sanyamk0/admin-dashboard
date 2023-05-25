@@ -1,7 +1,7 @@
 import React from "react";
 
 const Pie = () => {
-  return <div></div>;
+  return <div>Pie</div>;
 };
 
 export default Pie;

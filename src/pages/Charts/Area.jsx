@@ -1,7 +1,7 @@
 import React from "react";
 
 const Area = () => {
-  return <div></div>;
+  return <div>Area</div>;
 };
 
 export default Area;
